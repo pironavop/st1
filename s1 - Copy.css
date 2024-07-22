@@ -1,0 +1,145 @@
+ul li 
+{
+    display: inline-block;
+    padding-right: 30px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: grey;
+}
+
+#navbar
+{
+    margin-top: 50px;
+    margin-left: 400px;   
+}
+
+#main-content 
+{
+    background-image: url(image/contact-banner.jpg);
+    height: 512px;
+    width: 960px;
+    margin: 0px auto;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    overflow: hidden;
+}
+
+#h1
+{
+   padding-top: 200px;
+   padding-left: 60px;
+   font-size: 22px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color:#f7941e;
+}
+
+
+#f1
+{
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: block;
+    /* align-content: center; */
+}
+
+
+#pi1
+{
+    margin-top: 10px;
+    height: 20px;
+    width: 1120px;
+    /* border-radius: 30px; */
+    align-items: center;
+    align-content: center;
+    color: grey;
+}
+
+#pi2
+{
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.cb
+{
+    border-radius: 100px;
+}
+
+#pi3
+{
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+#pi31
+{
+    margin-top: 10px;
+    height: 20px;
+    width: 1120px;
+    /* border-radius: 30px; */
+    align-items: center;
+    align-content: center;
+    color: grey;
+}
+
+#ed1
+{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#ContainerSibeByside
+{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-bottom: 50px;
+}
+
+#ContainerSibeByside1
+{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-bottom: 50px;
+}
+
+.csbs input
+{
+    height: 30px;
+    width: 200px;
+}
+
+#containersidebyside3
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* margin-right: 10px; */
+}
+/* #containersidebyside4
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 10px;
+} */
+
+#containersidebyside31
+{
+    display: flex;
+    
+}
